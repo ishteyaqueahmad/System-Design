@@ -3,7 +3,7 @@
 ## IndianPolitics: politics use case.
 
 
-MPS:
+*MPS:
 
 getConstituency - return their winning constituency.
 getDriver - returns the driver assigned for their vehicle (default car).
